@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+//TÍNH TIỀN ĐIỆN
+
 public class Bai3{
     public static void main(String[] agrs) throws Exception{
         Scanner s = new Scanner(System.in);
